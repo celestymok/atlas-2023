@@ -1,0 +1,42 @@
+{
+	"id": -1,
+	"name": "Blood Blockade Battlefront / Kekkai Sensen",
+	"description": "Blood Blockade Battlefront (Japanese: 血界戦線, Hepburn: Kekkai Sensen, lit. \"Bloodline Battlefront\") is a Japanese manga series written and illustrated by Yasuhiro Nightow. It revolves around a young photographer named Leonardo Watch, who obtains 'the All Seeing Eyes of the Gods' at the cost of his sister's eyesight. After the incident, Leonardo moves to the city of Hellsalem's Lot to join an organization known as Libra to fight several monsters as well as terrorists. \n\nA direct sequel, titled Blood Blockade Battlefront: Back 2 Back, started in the first issue of Jump SQ.Crown on July 17, 2015. \n\n.A third series, titled Blood Blockade Battlefront: Beat 3 Peat, started in Jump SQ.Rise \n\nOn October 26, 2022. The manga was adapted into an anime television series produced by studio Bones and directed by Rie Matsumoto as first announced in May 2014. A 25-minute original video animation titled \"King of the Restaurant of Kings\" was bundled with the official Blood Blockade Battlefront guidebook that was released on June 3, 2016.\n\nA second season was announced in December 2016, running for 12 episodes. With Shigehito Takayanagi and Bones returning from the second season of the anime series to direct and animate the OAD, respectively.",
+	"links": {
+		"website": [
+			"http://kekkaisensen.com/"
+		],
+		"subreddit": [
+			"KekkaiSensen"
+		],
+		"discord": [
+			"7m5MNmM"
+		]
+	},
+	"path": {
+		"242": [
+			[
+				53,
+				-627
+			],
+			[
+				72,
+				-627
+			],
+			[
+				72,
+				-611
+			],
+			[
+				53,
+				-611
+			]
+		]
+	},
+	"center": {
+		"242": [
+			63,
+			-619
+		]
+	}
+}
